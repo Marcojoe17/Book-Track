@@ -64,4 +64,4 @@ Team Roles
 ## Design
 
 - [Figma Mockup](No mockup yet)
-- [Wireframe]([https://www.figma.com/your-wireframe-link](https://www.figma.com/design/QyzhAaTlbYkUAV1Xa8t3HA/book-Track-WireFrame?node-id=2002-20&t=3h0d7MIRzr6E1Sbh-1))
+- [Wireframe](https://www.figma.com/your-wireframe-link](https://www.figma.com/design/QyzhAaTlbYkUAV1Xa8t3HA/book-Track-WireFrame?node-id=2002-20&t=3h0d7MIRzr6E1Sbh-1)
