@@ -64,5 +64,5 @@ Team Roles
 ## Design
 
 - [Figma Mockup](https://www.figma.com/design/q95ujMNCC8zlGN8nfiR00i/BookTrack?node-id=0-1&t=MKhgZC5IhBLY6L4h-1)
-- [Old Wireframe]()
+- [Old Wireframe](https://www.figma.com/design/aZwc2CCRbIUIc1T8PfMW6h/BookTrack---Figma-Wireframe---Group-3--Copy-?node-id=2002-20&t=47EOgksxvEi1QciV-1)
 - [Wireframe](https://www.figma.com/design/6dwDcdzbttFBZoph5rNWv5/wireframe-of-booktrack--Copy---Copy---Copy---Copy---Copy-?node-id=0-1&t=dhbLSMhn19eXeaLd-1)
